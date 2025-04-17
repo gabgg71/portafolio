@@ -4,6 +4,7 @@ export const projects = [
         descripcion: "P2P video call application, featuring session generator, user count control, audio and video enable/disable function during the call, screen sharing, session recording and playback, participant view and the ability to focus on one participant's video. The application also includes a chat function that supports text messages, images, and documents. Documents can be viewed within the application, and files larger than the data channel capacity are sent in chunks.",
         tags: 'WebRTC, Signaling Server, React, Communication',
         pagina: 'https://gabgg71.github.io/videopar',
+        codigo: 'https://github.com/gabgg71/videopar',
         folder:'videopar',
         total:8
     },
