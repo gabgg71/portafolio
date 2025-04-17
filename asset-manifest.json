@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/portafolio/static/js/main.017c672b.js",
+    "static/media/sataliteF.glb": "/portafolio/static/media/sataliteF.238acf53da63200c9516.glb",
+    "static/media/tierra.jpeg": "/portafolio/static/media/tierra.df4de05dcc0da6b9d1a5.jpeg",
+    "index.html": "/portafolio/index.html",
+    "main.017c672b.js.map": "/portafolio/static/js/main.017c672b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.017c672b.js"
+  ]
+}
